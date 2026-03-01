@@ -1,6 +1,6 @@
 # Modelado de datos 
 
-<img width="1166" height="757" alt="Captura de pantalla 2026-03-01 125712" src="https://github.com/user-attachments/assets/44600d6b-281c-44b4-a88d-be4b27dee4ea" />
+<img width="1173" height="679" alt="image" src="https://github.com/user-attachments/assets/fc6754c7-3637-42e5-b030-a5fd8bd8786b" />
 
 ## Dashboard
 
