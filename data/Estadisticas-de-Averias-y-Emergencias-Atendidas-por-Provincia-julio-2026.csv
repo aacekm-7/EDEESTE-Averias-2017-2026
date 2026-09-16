@@ -1,0 +1,381 @@
+provincia,tipo de averia y emergencia,enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre,ano
+distrito nacional,alumbrado publico,0,0,0,0,0,0,0,1,0,0,0,0,2017
+distrito nacional,falta de energia,1652,1722,1887,1631,2013,1991,1937,2291,2153,2761,2362,2130,2017
+distrito nacional,niveles de tension,227,227,261,222,316,272,291,327,291,515,382,358,2017
+distrito nacional,otros,1,0,0,0,0,0,1,0,2,0,0,0,2017
+distrito nacional,probable defecto o falla,13,6,6,11,6,11,20,14,59,9,14,7,2017
+distrito nacional,riesgo de vida,205,232,265,281,237,270,277,331,407,373,292,245,2017
+el seibo,falta de energia,407,350,425,325,393,398,404,403,396,499,363,311,2017
+el seibo,niveles de tension,36,30,20,26,32,55,42,48,44,79,39,32,2017
+el seibo,otros,0,0,0,0,0,0,0,1,1,0,0,0,2017
+el seibo,probable defecto o falla,5,0,2,0,1,2,3,4,11,3,2,2,2017
+el seibo,riesgo de vida,57,37,58,47,36,52,59,59,113,57,48,41,2017
+hato mayor,falta de energia,313,274,336,320,401,447,458,481,468,415,309,368,2017
+hato mayor,niveles de tension,32,24,35,28,50,25,43,42,44,40,45,26,2017
+hato mayor,otros,0,0,2,0,0,0,0,0,0,0,0,0,2017
+hato mayor,probable defecto o falla,3,1,4,1,2,5,2,5,6,2,2,2,2017
+hato mayor,riesgo de vida,50,43,54,53,48,69,68,62,131,58,44,61,2017
+la altagracia,falta de energia,784,677,1042,772,1000,1042,1071,1062,1073,1034,892,692,2017
+la altagracia,niveles de tension,98,95,126,130,139,147,159,193,114,174,125,118,2017
+la altagracia,otros,0,0,0,0,1,0,0,0,0,0,1,1,2017
+la altagracia,probable defecto o falla,5,3,1,5,3,7,2,1,14,1,2,0,2017
+la altagracia,riesgo de vida,145,119,153,177,147,182,214,227,335,214,183,133,2017
+la romana,alumbrado publico,0,0,0,0,0,0,0,0,1,0,0,0,2017
+la romana,falta de energia,786,737,985,694,901,742,952,1116,938,1039,852,777,2017
+la romana,niveles de tension,90,89,139,120,152,123,172,223,172,193,134,122,2017
+la romana,otros,0,0,0,0,1,0,0,0,1,1,0,0,2017
+la romana,probable defecto o falla,2,2,5,2,1,3,3,2,8,2,2,0,2017
+la romana,riesgo de vida,131,112,163,110,146,154,175,193,236,192,155,124,2017
+monte plata,falta de energia,458,376,370,424,511,505,547,467,416,485,434,360,2017
+monte plata,níveles de tension,40,32,38,52,39,41,56,33,41,45,28,22,2017
+monte plata,otros,0,0,0,0,2,0,0,0,1,0,0,0,2017
+monte plata,probable defecto o falla,7,8,4,11,12,4,5,5,11,8,5,2,2017
+monte plata,riesgo de vida,104,88,90,137,148,118,126,145,136,119,102,96,2017
+san pedro de macoris,alumbrado publico,0,0,0,0,0,0,0,0,1,0,0,0,2017
+san pedro de macoris,falta de energia,745,662,687,666,726,743,783,829,896,815,782,643,2017
+san pedro de macoris,niveles de tension,62,64,88,52,91,93,90,116,88,91,92,79,2017
+san pedro de macoris,otros,0,0,0,0,1,0,0,0,1,1,1,1,2017
+san pedro de macoris,probable defecto o falla,3,2,5,3,4,7,6,10,16,4,2,4,2017
+san pedro de macoris,riesgo de vida,149,109,154,138,149,156,125,170,236,152,175,122,2017
+santo domingo,alumbrado publico,0,0,0,0,0,0,0,0,0,0,0,0,2017
+santo domingo,falta de energia,6113,6233,6936,6577,7799,7271,7954,8249,8291,10495,9706,8266,2017
+santo domingo,niveles de tension,746,834,1082,997,1171,1186,1340,1426,1381,1963,1733,1435,2017
+santo domingo,otros,,3,0,2,1,1,0,0,1,2,2,1,2017
+santo domingo,probable defecto o falla,38,44,34,24,35,41,34,40,226,28,22,16,2017
+santo domingo,riesgo de vida,784,850,910,926,1018,943,1179,1234,1519,1344,1134,934,2017
+santo domingo,sin identificar,3,1,0,1,0,0,0,1,0,4,2,2,2017
+santo domingo,falta de energia,1,0,0,1,0,0,0,0,0,1,1,2,2017
+santo domingo,niveles de tension,0,0,0,0,0,0,0,0,0,0,,0,2017
+santo domingo,riesgo de vida,2,1,0,0,0,0,0,1,0,3,1,0,2017
+distrito nacional,alumbrado publico,0,0,0,0,0,1,0,0,0,1,0,1,2018
+distrito nacional,falta de energia,2295,1977,2167,2177,2294,2046,2622,2324,2003,2070,2264,1879,2018
+distrito nacional,niveles de tension,412,278,372,322,426,363,447,462,402,366,329,309,2018
+distrito nacional,otros,0,1,1,1,0,,0,0,0,0,0,0,2018
+distrito nacional,probable defecto o falla,15,9,9,5,5,4,14,9,7,5,4,8,2018
+distrito nacional,riesgo de vida,319,225,245,263,317,252,345,327,305,287,306,267,2018
+el seibo,falta de energia,396,349,337,311,303,225,306,365,322,388,254,302,2018
+el seibo,niveles de tension,33,37,49,33,37,33,41,33,34,26,27,27,2018
+el seibo,otros,0,0,0,0,0,1,0,2,0,0,0,0,2018
+el seibo,probable defecto o falla,4,1,0,0,2,1,1,1,3,1,0,3,2018
+el seibo,riesgo de vida,52,46,42,29,26,27,51,33,39,54,27,37,2018
+hato mayor,falta de energia,289,328,361,356,359,284,362,331,350,365,306,296,2018
+hato mayor,niveles de tension,44,34,27,47,60,51,49,56,28,41,37,25,2018
+hato mayor,otros,0,0,0,0,0,,0,0,0,0,1,2,2018
+hato mayor,probable defecto o falla,0,0,1,2,2,2,4,3,5,1,1,1,2018
+hato mayor,riesgo de vida,59,40,49,49,49,29,34,54,54,52,42,65,2018
+la altagracia,falta de energia,852,795,874,734,780,647,818,892,918,843,744,736,2018
+la altagracia,niveles de tension,112,136,140,112,150,125,151,175,141,142,96,130,2018
+la altagracia,otros,1,0,2,0,0,,0,0,0,0,0,0,2018
+la altagracia,probable defecto o falla,4,3,0,1,3,1,1,1,1,3,1,0,2018
+la altagracia,riesgo de vida,169,137,163,124,139,97,143,186,170,161,139,151,2018
+la romana,alumbrado publico,1,0,0,0,0,,0,0,0,0,0,0,2018
+la romana,falta de energia,670,656,704,764,735,675,795,825,722,797,798,724,2018
+la romana,niveles de tension,134,115,124,146,147,118,159,174,108,152,111,113,2018
+la romana,otros,0,0,0,0,0,,0,0,0,0,0,0,2018
+la romana,probable defecto o falla,2,2,3,1,1,4,,2,3,0,0,3,2018
+la romana,riesgo de vida,134,121,129,143,113,111,125,139,119,143,147,129,2018
+monte plata,falta de energia,450,449,423,496,442,485,523,540,470,424,423,411,2018
+monte plata,niveles de tension,49,45,26,38,35,48,49,41,42,33,25,29,2018
+monte plata,otros,1,0,1,0,1,,0,0,0,0,0,0,2018
+monte plata,probable defecto o falla,2,6,6,4,3,3,4,4,3,5,3,3,2018
+monte plata,riesgo de vida,104,109,84,118,112,103,132,127,112,132,89,92,2018
+san pedro de macoris,alumbrado publico,0,0,0,0,0,,0,0,0,0,0,0,2018
+san pedro de macoris,falta de energia,733,728,719,627,650,543,679,823,713,881,769,725,2018
+san pedro de macoris,niveles de tension,89,111,116,71,76,85,96,106,96,100,83,85,2018
+san pedro de macoris,otros,0,0,0,0,1,1,2,,,0,0,0,2018
+san pedro de macoris,probable defecto o falla,1,2,7,5,1,1,7,3,1,7,7,1,2018
+san pedro de macoris,riesgo de vida,120,142,155,113,121,95,150,191,174,169,135,179,2018
+santo domingo,alumbrado publico,0,0,1,0,0,0,0,0,0,0,0,0,2018
+santo domingo,falta de energia,9152,7309,8277,8486,8995,7679,10305,9849,9658,9720,9009,8655,2018
+santo domingo,niveles de tension,1705,1427,1542,1681,1965,1630,2060,2036,2044,1717,1636,1667,2018
+santo domingo,otros,0,1,2,2,1,1,1,2,0,1,1,1,2018
+santo domingo,probable defecto o falla,20,18,19,20,37,38,57,39,34,25,24,31,2018
+santo domingo,riesgo de vida,1011,765,909,1028,1097,910,1218,1176,1205,1129,1159,1165,2018
+santo domingo,sin identificar,0,1,0,1,1,0,0,0,3,0,0,2,2018
+santo domingo,falta de energia,0,1,0,0,0,0,0,0,1,0,1,0,2018
+santo domingo,niveles de tension,0,0,0,0,1,0,0,0,2,0,0,0,2018
+santo domingo,riesgo de vida,0,0,0,1,0,0,0,0,0,0,0,0,2018
+distrito nacional,alumbrado publico,0,0,0,0,0,0,0,0,0,0,0,0,2019
+distrito nacional,falta de energia,2212,1682,1802,1700,2186,2224,2294,2324,2540,1972,1800,1700,2019
+distrito nacional,niveles de tension,385,281,325,334,388,436,418,477,497,362,313,334,2019
+distrito nacional,otros,0,0,0,0,0,0,0,0,0,0,0,0,2019
+distrito nacional,probable defecto o falla,4,2,6,5,8,16,11,10,12,10,5,5,2019
+distrito nacional,riesgo de vida,268,197,202,207,301,304,290,278,364,252,254,207,2019
+el seibo,falta de energia,408,260,301,329,347,375,369,322,483,401,346,329,2019
+el seibo,niveles de tension,54,37,34,45,26,39,52,58,44,29,28,45,2019
+el seibo,otros,0,0,0,0,0,0,0,0,0,0,0,0,2019
+el seibo,probable defecto o falla,1,,1,1,3,3,0,1,2,1,0,1,2019
+el seibo,riesgo de vida,48,26,25,47,37,58,58,57,61,49,33,47,2019
+hato mayor,falta de energia,460,320,307,353,450,423,384,387,516,376,348,353,2019
+hato mayor,niveles de tension,51,42,24,42,53,72,70,42,57,58,31,42,2019
+hato mayor,otros,1,0,0,0,0,0,0,0,0,0,0,0,2019
+hato mayor,probable defecto o falla,2,1,,1,1,4,1,7,2,0,4,1,2019
+hato mayor,riesgo de vida,61,32,52,49,72,52,42,64,68,34,39,49,2019
+la altagracia,falta de energia,965,717,891,829,1078,1244,1181,1159,1382,971,882,829,2019
+la altagracia,niveles de tension,121,110,112,121,157,192,218,189,238,141,142,121,2019
+la altagracia,otros,0,,1,0,0,0,0,0,0,0,0,0,2019
+la altagracia,probable defecto o falla,1,,1,0,1,3,3,1,1,2,3,0,2019
+la altagracia,riesgo de vida,191,132,159,126,193,212,192,188,225,139,99,126,2019
+la romana,alumbrado publico,0,0,0,1,0,0,0,0,0,0,0,1,2019
+la romana,falta de energia,1008,764,828,720,1078,1188,1179,1020,1242,1000,886,720,2019
+la romana,niveles de tension,147,120,125,156,166,219,223,186,213,131,148,156,2019
+la romana,otros,0,0,0,0,0,0,0,0,0,0,0,0,2019
+la romana,probable defecto o falla,1,1,2,2,2,4,5,2,1,1,5,2,2019
+la romana,riesgo de vida,140,103,136,122,162,170,189,160,190,135,133,122,2019
+monte plata,falta de energia,484,359,430,480,608,641,651,674,709,517,425,480,2019
+monte plata,niveles de tension,49,27,34,51,58,70,57,60,93,54,49,51,2019
+monte plata,otros,0,,2,0,0,0,0,0,0,0,0,2,2019
+monte plata,probable defecto o falla,8,4,9,10,1,4,6,4,6,8,6,9,2019
+monte plata,riesgo de vida,151,99,138,123,164,172,146,124,169,147,94,138,2019
+san pedro de macoris,alumbrado publico,0,0,0,0,0,0,0,0,0,0,0,0,2019
+san pedro de macoris,falta de energia,957,675,698,754,934,964,1017,943,974,786,818,698,2019
+san pedro de macoris,niveles de tension,111,79,83,144,140,125,148,155,133,108,111,83,2019
+san pedro de macoris,otros,1,0,0,0,0,1,0,0,1,0,0,0,2019
+san pedro de macoris,probable defecto o falla,4,5,5,2,3,5,2,6,8,5,6,5,2019
+san pedro de macoris,riesgo de vida,155,138,97,175,189,179,224,162,209,140,120,97,2019
+santo domingo,alumbrado publico,1,,,0,0,0,2,0,1,0,0,,2019
+santo domingo,falta de energia,10656,7660,8331,8933,10148,10872,11829,11459,14138,10560,9442,8331,2019
+santo domingo,niveles de tension,2045,1495,1395,1717,1926,2160,2387,2396,2856,2185,1779,1395,2019
+santo domingo,otros,1,,1,0,1,0,0,0,1,1,0,1,2019
+santo domingo,probable defecto o falla,30,32,26,21,32,36,37,28,42,27,20,26,2019
+santo domingo,riesgo de vida,1184,824,935,951,1174,1232,1316,1227,1363,878,839,935,2019
+santo domingo,sin identificar,0,0,0,0,0,0,0,0,0,0,0,0,2019
+santo domingo,falta de energia,0,0,0,2,0,0,0,0,0,1,0,0,2019
+santo domingo,niveles de tension,0,0,0,0,0,0,0,0,0,0,0,0,2019
+santo domingo,riesgo de vida,0,0,0,0,0,0,0,0,0,1,6,0,2019
+distrito nacional,alumbrado publico,0,0,0,0,0,0,0,0,0,0,0,0,2020
+distrito nacional,falta de energia,2060,1604,1420,909,1437,1543,1766,2138,2287,2316,2325,2109,2020
+distrito nacional,niveles de tension,473,365,327,164,306,280,291,362,477,541,539,373,2020
+distrito nacional,otros,0,0,0,4,5,0,0,0,0,0,0,0,2020
+distrito nacional,probable defecto o falla,11,9,5,0,0,4,9,9,12,8,5,6,2020
+distrito nacional,riesgo de vida,239,168,131,108,169,154,188,315,254,236,233,170,2020
+el seibo,falta de energia,525,385,376,146,264,297,334,379,372,324,383,331,2020
+el seibo,niveles de tension,43,33,30,13,21,27,31,31,38,25,29,34,2020
+el seibo,otros,0,0,0,0,0,0,0,0,0,0,0,0,2020
+el seibo,probable defecto o falla,1,1,0,2,3,1,0,3,0,1,0,3,2020
+el seibo,riesgo de vida,72,59,36,28,45,29,36,73,51,28,41,28,2020
+hato mayor,falta de energia,476,346,337,212,389,317,358,456,404,348,396,342,2020
+hato mayor,niveles de tension,64,51,31,18,21,32,32,46,55,55,45,49,2020
+hato mayor,otros,0, -   ,0,0,0,0,0,0,0,0,0,0,2020
+hato mayor,probable defecto o falla,1,2,2,0,5,5,2,4,1,1,1,2,2020
+hato mayor,riesgo de vida,52,49,32,33,46,52,54,94,61,37,53,49,2020
+la altagracia,falta de energia,1286,971,952,522,966,904,905,1077,1063,1023,799,840,2020
+la altagracia,niveles de tension,181,160,124,78,150,131,137,175,172,143,125,100,2020
+la altagracia,otros,0, -   ,0,0,0,0,0,0,0,0,0,0,2020
+la altagracia,probable defecto o falla,6,1,3,1,1,1,1,2,3,3,2,2,2020
+la altagracia,riesgo de vida,168,158,146,85,151,143,154,199,180,171,150,76,2020
+la romana,alumbrado publico,0,0,0,0,0,0,0,1,0,0,0,0,2020
+la romana,falta de energia,1227,950,740,579,915,976,998,1294,1243,1116,966,854,2020
+la romana,niveles de tension,197,186,143,92,142,144,164,218,234,185,177,142,2020
+la romana,otros,0,2,0,0,0,0,0,0,0,0,0,0,2020
+la romana,probable defecto o falla,2,1,1,0,1,4,2,1,2,4,3,1,2020
+la romana,riesgo de vida,162,125,74,79,99,106,164,209,185,122,103,105,2020
+monte plata,falta de energia,532,409,449,306,421,526,616,708,571,595,564,465,2020
+monte plata,niveles de tension,54,42,40,29,41,55,66,82,84,85,59,38,2020
+monte plata,otros,1, -   ,0,1,1,0,0,0,0,0,0,0,2020
+monte plata,probable defecto o falla,8,5,6,2,1,6,6,13,10,7,5,9,2020
+monte plata,riesgo de vida,157,152,98,60,112,122,119,252,122,111,111,138,2020
+san pedro de macoris,alumbrado publico,890,0,0,0,1,0,0,0,0,0,0,0,2020
+san pedro de macoris,falta de energia,139,775,643,407,681,796,743,1374,1096,1110,1066,884,2020
+san pedro de macoris,niveles de tension,0,110,109,55,152,124,96,153,162,152,171,129,2020
+san pedro de macoris,otros,0, -   ,0,0,3,0,0,0,0,0,0,0,2020
+san pedro de macoris,probable defecto o falla,3,4,0,0,0,5,4,11,5,2,3,2,2020
+san pedro de macoris,riesgo de vida,143,126,110,94,128,167,110,255,163,184,139,110,2020
+santo domingo,alumbrado publico,2,1,1,1,0,0,0,0,0,0,0,0,2020
+santo domingo,falta de energia,10932,"8,592",8193,5605,7698,8476,8998,11291,11239,12447,12158,10079,2020
+santo domingo,niveles de tension,2314,"1,723",1665,1103,1648,1808,1953,2348,2376,2760,2778,2132,2020
+santo domingo,otros,0, -   ,0,0,2,0,1,2,0,0,0,0,2020
+santo domingo,probable defecto o falla,31,34,10,12,14,21,26,62,20,36,22,14,2020
+santo domingo,riesgo de vida,898,847,718,562,765,907,962,1436,1195,1120,1066,780,2020
+santo domingo,sin identificar,0,1,0,2,1,0,0,0,0,0,1,0,2020
+distrito nacional,falta de energia,1517,1876,2327,2146,2368,2521,2572,2731,2940,2331,1969,1898,2021
+distrito nacional,níveles de tension,290,310,397,384,453,471,465,499,591,503,481,403,2021
+distrito nacional,probable defecto o falla,7,3,13,7,5,5,9,16,13,9,10,9,2021
+distrito nacional,riego de vida,151,79,209,175,202,199,254,337,264,247,195,175,2021
+el seibo,falta de energia,301,124,376,390,349,394,448,309,462,426,372,404,2021
+el seibo,níveles de tension,39,13,45,35,47,37,46,33,51,53,31,30,2021
+el seibo,riego de vida,31,18,55,47,36,49,54,46,51,55,32,53,2021
+hato mayor,falta de energia,336,106,383,347,384,419,455,437,513,630,423,399,2021
+hato mayor,níveles de tension,46,12,46,44,36,64,57,54,64,81,42,47,2021
+hato mayor,probable defecto o falla,2,0,0,2,3,3,3,1,2,3,3,0,2021
+hato mayor,riego de vida,40,18,47,67,52,59,48,51,61,57,38,64,2021
+la altagracia,falta de energia,757,271,958,1048,1006,971,1210,1174,1375,1326,1119,971,2021
+la altagracia,níveles de tension,128,46,133,138,130,134,175,204,206,192,171,139,2021
+la altagracia,probable defecto o falla,3,3,1,2,0,1,4,3,4,4,3,2,2021
+la altagracia,riego de vida,114,44,128,162,158,124,181,193,211,206,193,130,2021
+la romana,falta de energia,846,310,973,924,1212,1272,1492,1326,1495,1271,1132,1090,2021
+la romana,níveles de tension,144,59,185,177,244,256,266,261,217,195,151,178,2021
+la romana,probable defecto o falla,1,1,1,2,2,2,0,2,0,6,1,2,2021
+la romana,riego de vida,82,51,97,95,150,130,178,145,195,141,140,131,2021
+monte plata,falta de energia,383,425,526,581,647,616,634,574,582,663,483,426,2021
+monte plata,níveles de tension,31,47,41,50,57,72,70,82,59,78,44,37,2021
+monte plata,probable defecto o falla,3,5,5,14,6,7,12,11,9,9,9,5,2021
+monte plata,riego de vida,119,50,148,171,170,168,150,131,124,136,98,88,2021
+san pedro de macoris,falta de energia,711,858,895,913,1010,1074,1304,1235,1274,1232,1006,868,2021
+san pedro de macoris,níveles de tension,130,123,144,126,128,140,166,158,158,178,129,125,2021
+san pedro de macoris,probable defecto o falla,3,6,2,3,5,6,10,9,10,6,2,2,2021
+san pedro de macoris,riego de vida,103,127,131,136,142,150,163,185,188,189,153,145,2021
+santo domingo,falta de energia,7840,8893,11530,10554,11002,12205,12201,12721,12380,11729,9709,9864,2021
+santo domingo,níveles de tension,1700,1954,2525,2225,2418,2668,2739,2678,2976,2761,2210,2119,2021
+santo domingo,probable defecto o falla,11,10,22,37,25,26,34,61,9,30,27,17,2021
+santo domingo,riego de vida,685,812,1005,903,1016,954,1188,1370,1157,1116,813,823,2021
+distrito nacional,falta de energia,1507,1647,2097,2291,3082,2890,3761,4039,3259,3590,3765,3324,2022
+distrito nacional,níveles de tension,354,372,432,510,552,563,594,555,383,583,585,511,2022
+distrito nacional,probable defecto o falla,7,4,3,9,5,11,10,4,16,5,6,11,2022
+distrito nacional,riego de vida,131,147,199,229,243,249,283,326,325,292,323,234,2022
+el seibo,falta de energia,336,376,424,441,417,504,500,475,388,901,600,557,2022
+el seibo,níveles de tension,33,30,29,57,40,58,50,36,27,61,48,45,2022
+el seibo,probable defecto o falla,1,4,2,1,0,2,0,1,4,0,0,45,2022
+el seibo,riego de vida,31,45,37,51,46,64,52,45,82,155,76,533,2022
+hato mayor,falta de energia,362,449,455,513,606,619,594,599,588,988,645,74,2022
+hato mayor,níveles de tension,56,48,44,62,72,91,63,69,55,161,70,2,2022
+hato mayor,probable defecto o falla,,2,3,1,2,1,3,2,4,4,2,65,2022
+hato mayor,riego de vida,37,47,61,58,82,69,74,76,105,167,91,1139,2022
+la altagracia,falta de energia,844,1047,1090,1290,1411,1644,1484,1822,1641,2566,1551,135,2022
+la altagracia,níveles de tension,113,142,160,156,180,220,226,212,163,316,188,1,2022
+la altagracia,probable defecto o falla,3,3,3,1,3,3,3,4,8,1,4,163,2022
+la altagracia,riego de vida,94,136,155,184,208,236,212,244,306,442,256,1179,2022
+la romana,falta de energia,933,1040,1289,1455,1674,1578,1571,1788,1845,2270,1672,209,2022
+la romana,níveles de tension,162,185,210,240,267,286,285,350,228,397,289,3,2022
+la romana,probable defecto o falla,2,1,2,4,4,2,1,2,11,5,7,131,2022
+la romana,riego de vida,71,109,145,156,205,200,188,251,371,364,241,537,2022
+monte plata,falta de energia,397,450,582,580,627,714,761,696,746,653,547,53,2022
+monte plata,níveles de tension,36,32,54,55,51,86,71,56,54,51,45,10,2022
+monte plata,probable defecto o falla,11,7,4,8,17,6,8,10,7,9,5,115,2022
+monte plata,riego de vida,106,103,133,119,162,146,147,160,188,147,113,944,2022
+san pedro de macoris,falta de energia,721,943,1167,1279,1334,1291,1761,1565,1702,1617,1347,129,2022
+san pedro de macoris,níveles de tension,95,131,161,179,175,183,227,220,170,205,172,2,2022
+san pedro de macoris,probable defecto o falla,1,2,2,4,1,3,3,7,16,2,1,146,2022
+san pedro de macoris,riego de vida,91,134,163,164,209,214,235,214,330,298,197,1,2022
+santo domingo,falta de energia,8344,9686,11574,12672,13297,11679,13191,13622,11699,13114,12349,11104,2022
+santo domingo,níveles de tension,2143,2175,2450,2683,3029,2771,3024,2919,2091,2721,2565,2313,2022
+santo domingo,probable defecto o falla,15,16,28,39,32,35,23,27,67,22,26,24,2022
+santo domingo,riego de vida,623,686,914,1050,1170,1168,1193,1345,1406,1127,1143,846,2022
+distrito nacional,falta de energia,2661,2931,3245,3253,3153,3177,2993,2398,1906,2201,2726,2610,2023
+distrito nacional,níveles de tension,336,455,481,489,464,477,292,151,107,210,307,420,2023
+distrito nacional,probable defecto o falla,8,4,7,9,7,7,11,18,5,6,10,8,2023
+distrito nacional,riego de vida,198,172,257,287,257,236,350,337,333,351,297,269,2023
+el seibo,falta de energia,495,389,444,485,544,404,410,434,364,375,346,470,2023
+el seibo,níveles de tension,41,51,59,55,60,70,18,17,12,10,18,25,2023
+el seibo,probable defecto o falla,0,1,1,1,0,0,1,2,0,0,3,0,2023
+el seibo,riego de vida,47,40,50,41,59,38,48,71,56,43,45,46,2023
+hato mayor,falta de energia,474,406,472,755,636,483,525,526,419,401,421,510,2023
+hato mayor,níveles de tension,56,45,47,63,75,82,43,25,19,22,20,33,2023
+hato mayor,probable defecto o falla,1,0,1,3,0,0,,5,2,4,3,2,2023
+hato mayor,riego de vida,56,62,46,76,89,63,88,81,70,77,55,58,2023
+la altagracia,falta de energia,960,974,1001,1346,1674,1446,1310,1510,1409,1421,892,1125,2023
+la altagracia,níveles de tension,128,161,171,144,224,193,122,94,80,84,68,133,2023
+la altagracia,probable defecto o falla,1,0,1,3,0,0,3,1,2,1,2,0,2023
+la altagracia,riego de vida,130,137,156,227,226,180,212,288,244,285,128,166,2023
+la romana,falta de energia,985,868,943,1372,1607,1529,1553,1396,1520,1621,1055,1187,2023
+la romana,níveles de tension,164,147,196,257,285,251,190,98,80,103,77,152,2023
+la romana,probable defecto o falla,1,1,1,0,1,0,0,5,0,2,5,0,2023
+la romana,riego de vida,130,92,112,165,211,199,254,274,300,281,136,154,2023
+monte plata,falta de energia,461,466,438,589,611,492,608,631,506,546,503,535,2023
+monte plata,níveles de tension,40,46,48,70,55,69,41,25,36,36,22,36,2023
+monte plata,probable defecto o falla,6,7,2,2,7,3,7,13,14,8,7,9,2023
+monte plata,riego de vida,103,85,114,157,138,117,133,155,114,153,107,119,2023
+san pedro de macoris,falta de energia,961,863,1058,1189,1456,1272,1372,1320,1191,1246,978,1002,2023
+san pedro de macoris,níveles de tension,114,93,120,161,160,152,128,82,63,52,67,108,2023
+san pedro de macoris,probable defecto o falla,2,3,1,8,6,3,3,7,3,1,0,1,2023
+san pedro de macoris,riego de vida,129,126,150,198,238,209,248,282,245,226,156,120,2023
+santo domingo,falta de energia,8645,9271,9227,10064,11043,10306,9312,7683,7490,8990,8491,9247,2023
+santo domingo,níveles de tension,1711,1988,1894,2182,2400,2273,1503,745,618,915,1096,1525,2023
+santo domingo,probable defecto o falla,14,13,12,33,19,17,27,40,28,32,32,20,2023
+santo domingo,riego de vida,719,723,812,1062,1187,997,1424,1420,1360,1524,1112,1021,2023
+distrito nacional,falta de energia,2242,2337,2333,2657,3592,3287,2782,3057,2856,2634,2623,2516,2024
+distrito nacional,níveles de tension,432,417,447,556,617,594,443,496,458,415,473,454,2024
+distrito nacional,probable defecto o falla,14,5,10,4,7,7,16,12,9,3,7,6,2024
+distrito nacional,riego de vida,248,218,203,197,321,307,282,241,270,256,275,165,2024
+el seibo,falta de energia,356,438,422,492,603,667,497,497,492,553,578,395,2024
+el seibo,níveles de tension,41,32,28,43,56,55,36,45,34,37,49,38,2024
+el seibo,probable defecto o falla,2,1,1,0,1,1,0,2,2,1,1,0,2024
+el seibo,riego de vida,51,50,64,50,60,67,43,52,56,68,57,49,2024
+hato mayor,falta de energia,409,390,425,461,783,710,673,676,637,571,518,445,2024
+hato mayor,níveles de tension,41,35,51,48,80,90,65,72,56,54,56,44,2024
+hato mayor,probable defecto o falla,1,1,2,2,2,1,3,0,1,4,3,0,2024
+hato mayor,riego de vida,60,39,62,51,110,85,92,70,64,61,66,49,2024
+la altagracia,falta de energia,1063,1050,1238,1310,2057,2541,2129,2193,2083,2002,1527,1163,2024
+la altagracia,níveles de tension,112,128,141,167,227,222,179,189,180,169,156,116,2024
+la altagracia,probable defecto o falla,0,1,1,1,3,2,2,1,1,1,5,5,2024
+la altagracia,riego de vida,142,142,191,192,259,326,272,257,223,270,161,135,2024
+la romana,falta de energia,1197,1186,1306,1447,2017,2132,2109,1967,2053,1833,1511,1338,2024
+la romana,níveles de tension,175,152,212,250,263,267,284,268,263,213,211,188,2024
+la romana,probable defecto o falla,4,3,4,3,4,2,2,2,2,4,2,2,2024
+la romana,riego de vida,112,140,127,162,222,249,268,261,244,243,168,130,2024
+monte plata,falta de energia,447,434,619,522,940,846,766,701,698,601,803,759,2024
+monte plata,níveles de tension,46,38,78,67,89,68,52,56,60,47,80,80,2024
+monte plata,probable defecto o falla,5,11,5,6,12,14,11,2,15,14,10,6,2024
+monte plata,riego de vida,123,132,167,91,190,161,186,154,131,142,119,103,2024
+san pedro de macoris,falta de energia,851,825,918,978,1457,1796,1751,1756,1569,1570,1188,1147,2024
+san pedro de macoris,níveles de tension,107,122,109,123,187,201,208,185,171,178,143,128,2024
+san pedro de macoris,probable defecto o falla,0,2,5,2,2,9,11,2,2,4,5,1,2024
+san pedro de macoris,riego de vida,103,99,139,120,232,245,277,240,236,255,148,141,2024
+santo domingo,falta de energia,9195,9953,11279,11466,15075,14814,11711,14150,13320,12960,11655,11263,2024
+santo domingo,níveles de tension,1955,1819,2127,2405,2968,2818,2225,2483,2247,2397,2190,2145,2024
+santo domingo,probable defecto o falla,21,35,26,25,37,43,48,38,25,29,31,26,2024
+santo domingo,riego de vida,889,860,947,848,1339,1324,1228,1186,1098,1175,899,796,2024
+distrito nacional,falta de energia,2199,2393,2778,2907,3391,3104,3017,3400,3171,3869,2969,2375,2025
+distrito nacional,níveles de tension,390,464,524,516,543,613,657,675,629,836,685,577,2025
+distrito nacional,probable defecto o falla,2,5,7,6,17,16,12,9,10,12,5,1,2025
+distrito nacional,riego de vida,196,189,205,203,262,270,263,339,357,362,250,165,2025
+el seibo,falta de energia,389,390,409,567,640,571,600,669,620,776,465,416,2025
+el seibo,níveles de tension,45,43,46,46,62,65,93,65,67,58,49,33,2025
+el seibo,probable defecto o falla,1,1,5,3,4,7,2,4,3,3,0,1,2025
+el seibo,riego de vida,41,50,55,65,70,66,72,67,56,88,53,49,2025
+hato mayor,falta de energia,405,422,410,570,644,663,601,815,701,754,495,461,2025
+hato mayor,níveles de tension,38,58,54,69,65,78,105,106,80,116,65,74,2025
+hato mayor,probable defecto o falla,1,3,8,1,1,5,5,5,6,3,1,2,2025
+hato mayor,riego de vida,42,52,57,74,52,72,94,125,90,81,58,59,2025
+la altagracia,falta de energia,1113,1119,1333,1430,1698,2021,2429,2723,2591,2305,1555,1179,2025
+la altagracia,níveles de tension,127,160,149,176,225,254,331,334,313,294,177,171,2025
+la altagracia,probable defecto o falla,2,8,5,3,4,9,7,12,11,26,7,6,2025
+la altagracia,riego de vida,148,110,151,159,184,213,300,368,374,286,183,151,2025
+la romana,falta de energia,1122,1285,1537,1537,1874,1898,2112,2643,2673,2654,1565,1344,2025
+la romana,níveles de tension,140,205,232,282,353,334,441,488,432,510,337,330,2025
+la romana,probable defecto o falla,1,3,1,3,3,3,9,7,9,7,3,3,2025
+la romana,riego de vida,115,121,131,137,166,194,210,369,339,397,174,152,2025
+monte plata,falta de energia,632,695,833,915,1292,1060,1230,1352,1015,1255,814,1021,2025
+monte plata,níveles de tension,65,82,66,102,157,108,145,184,122,144,92,138,2025
+monte plata,probable defecto o falla,3,4,5,10,5,11,20,32,10,12,8,11,2025
+monte plata,riego de vida,90,87,100,154,192,172,188,231,175,188,162,132,2025
+san pedro de macoris,falta de energia,934,968,1011,1155,1501,1466,1721,2324,1899,2266,1338,1112,2025
+san pedro de macoris,níveles de tension,119,127,139,137,190,204,252,284,228,277,182,192,2025
+san pedro de macoris,probable defecto o falla,2,1,3,2,9,5,9,16,4,7,3,7,2025
+san pedro de macoris,riego de vida,113,134,145,148,205,193,241,343,236,291,144,146,2025
+santo domingo,falta de energia,9528,9994,11672,12481,15309,13670,14381,16703,14552,16895,13275,12036,2025
+santo domingo,níveles de tension,1797,2059,2239,2579,3019,2991,3660,3768,3167,3771,3163,2743,2025
+santo domingo,probable defecto o falla,29,34,24,35,35,49,38,82,40,72,42,36,2025
+santo domingo,riego de vida,698,752,774,917,1023,1023,1137,1605,1361,1574,1159,862,2025
+distrito nacional,falta de energia,2334,2188,3092,3050,2904,2623,2553,,,,,,2026
+distrito nacional,níveles de tension,573,571,683,719,618,585,580,,,,,,2026
+distrito nacional,probable defecto o falla,7,3,4,9,4,4,7,,,,,,2026
+distrito nacional,riego de vida,155,200,247,291,273,275,278,,,,,,2026
+el seibo,falta de energia,370,424,552,569,626,663,750,,,,,,2026
+el seibo,níveles de tension,38,51,47,63,63,100,80,,,,,,2026
+el seibo,probable defecto o falla,5,1,2,2,7,0,0,,,,,,2026
+el seibo,riego de vida,50,54,43,69,73,79,79,,,,,,2026
+hato mayor,falta de energia,431,447,474,581,710,803,838,,,,,,2026
+hato mayor,níveles de tension,65,47,71,75,94,137,152,,,,,,2026
+hato mayor,probable defecto o falla,1,6,5,5,6,4,4,,,,,,2026
+hato mayor,riego de vida,59,58,46,78,88,96,104,,,,,,2026
+la altagracia,falta de energia,1193,1218,1500,1607,2293,2184,2045,,,,,,2026
+la altagracia,níveles de tension,189,180,203,259,312,276,269,,,,,,2026
+la altagracia,probable defecto o falla,6,11,13,7,12,6,6,,,,,,2026
+la altagracia,riego de vida,144,144,207,215,284,302,305,,,,,,2026
+la romana,falta de energia,1329,1180,1613,1824,2039,2490,2574,,,,,,2026
+la romana,níveles de tension,265,242,302,360,391,457,438,,,,,,2026
+la romana,probable defecto o falla,6,1,5,1,1,4,4,,,,,,2026
+la romana,riego de vida,125,121,168,180,216,277,293,,,,,,2026
+monte plata,falta de energia,874,792,1017,1048,1321,1169,1311,,,,,,2026
+monte plata,níveles de tension,120,78,121,153,162,149,154,,,,,,2026
+monte plata,probable defecto o falla,8,3,10,8,10,6,6,,,,,,2026
+monte plata,riego de vida,117,127,153,197,231,224,232,,,,,,2026
+san pedro de macoris,falta de energia,1010,1079,1407,1361,1735,1799,1666,,,,,,2026
+san pedro de macoris,níveles de tension,178,148,210,194,255,261,218,,,,,,2026
+san pedro de macoris,probable defecto o falla,6,4,4,5,8,2,2,,,,,,2026
+san pedro de macoris,riego de vida,117,126,186,192,223,270,259,,,,,,2026
+santo domingo,falta de energia,10888,10539,13655,13411,13829,12736,12957,,,,,,2026
+santo domingo,níveles de tension,2680,2472,3146,3215,3149,2850,3007,,,,,,2026
+santo domingo,probable defecto o falla,14,25,41,60,39,33,34,,,,,,2026
+santo domingo,riego de vida,776,788,1072,1227,1479,1428,1372,,,,,,2026
